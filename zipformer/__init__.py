@@ -1,1 +1,1 @@
-from zipformer import ZipformerConvModule, ZipformerBlock, Zipformer
+from .zipformer import ZipformerConvModule, ZipformerBlock, Zipformer

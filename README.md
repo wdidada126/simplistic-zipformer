@@ -14,7 +14,6 @@ from zipformer import ZipformerBlock
 
 block = ZipformerBlock(
     dim = 512,
-    dim_head = 64,
     heads = 8,
     mult = 4
 )
